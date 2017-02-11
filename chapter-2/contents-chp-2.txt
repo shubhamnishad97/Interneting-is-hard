@@ -1,0 +1,15 @@
+BASIC WEB PAGES
+
+Topics:-
+1.setup
+2.structure of a web page
+3.page titles
+4.paragraphs
+5.headings
+6.unordered lists
+7.ordered lists
+8.emphasis elements
+9.strong elements
+10.structure vs presentation
+11.empty html elements
+12.summary
