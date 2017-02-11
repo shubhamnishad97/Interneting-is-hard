@@ -1,0 +1,16 @@
+LINKS and IMAGES
+
+Topics:-
+1.setup
+2.anchors
+3.links
+4.types of links
+5.link targets
+6.naming conventions
+7.images
+8.image formats
+9.image dimensions
+10.text alternatives
+11.more html attributes
+12.html entities
+13.summary
