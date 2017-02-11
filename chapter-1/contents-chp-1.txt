@@ -1,0 +1,16 @@
+INTRODUCTION
+
+Topics:-
+1.html, css, & javascript
+2.languages vs “web dev”
+3.web publishing
+4.not frameworks
+5.hands-on learning
+6.tools of the trade
+7.atom text editor
+8.creating a project
+9.creating files
+10.nav’ing file system
+11.multiple panes
+12.outside of atom
+13.summary
