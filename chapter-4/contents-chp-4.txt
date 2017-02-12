@@ -1,0 +1,16 @@
+HELLO,CSS
+
+Topics:-
+1.setup
+2.css stylesheets
+3.linking a stylesheet
+4.css comments
+6.multiple properties
+7.different elements
+8.units of measurement
+9.multiple selectors
+10.list styles
+11.reusable stylesheets
+12.more text styles
+13.the cascade
+14.summary
