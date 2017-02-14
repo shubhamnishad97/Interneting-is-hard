@@ -1,0 +1,16 @@
+css selectors
+
+Topics:-
+1.setup
+2.class selectors
+3.more useful divs
+4.container divs
+5.reusing class styles
+6.modifying class styles
+7.descendant selectors
+8.link pseudo-classes
+9.button pseudo-classes
+10.structural pseudo-classes
+11.id selectors
+12.css specificity
+13.summary
