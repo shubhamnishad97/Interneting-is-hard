@@ -1,3 +1,10 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+
 h1, p {
   background-color: #DDE0E3;    /* Light gray */
 
@@ -7,7 +14,7 @@ em, strong {
   background-color: #B2D6FF;    /* Light blue */
   display: inline;
   //margin:50px;
-  padding:50px;
+  //padding:50px;
 
 }
 
@@ -21,4 +28,21 @@ p { margin-top: 25px;
 
 h1{
 	border-bottom:1px solid #5D6063;
+}
+
+div {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold ;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+  width:200px;
+  box-sizing: border-box;
+  margin:0px auto;
+}
+
+body{
+  text-align: center;
 }

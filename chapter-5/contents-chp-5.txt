@@ -1,0 +1,18 @@
+css-box-model
+
+
+Topics:-
+1.setup
+2.block vs inline
+3.changing box behavior
+4.the box model
+5.padding
+6.borders
+7.margins
+8.vertical margin collapse
+9.generic boxes
+10.explicit dimensions
+11.content vs border boxes
+12.aligning boxes
+13.resetting styles
+14.summary
