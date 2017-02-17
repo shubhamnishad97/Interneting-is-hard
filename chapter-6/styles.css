@@ -1,9 +1,12 @@
-.synopsis{
+p:first-of-type{
 	 color: #7E8184;        /* Light gray */
   font-style: italic;
 }
 
-.button {
+.button:link,                 /* Change this */
+.button:visited {             /* Change this */
+  display: block;             /* Add this */
+  text-decoration: none;      /* Add this */
   color: #FFF;
   background-color: #5995DA;    /* Blue */
   font-weight: bold;
@@ -24,4 +27,41 @@
 .call-to-action {
   font-style: italic;
   background-color: #EEB75A;    /* Yellow */
+}
+
+.synopsis em{
+  font-style: normal;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+}
+
+a:visited:hover {
+  color: white;
+}
+
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #76AEED;  /* Light blue */
+}
+
+p:last-of-type{
+  margin:50px;
+}
+
+#button-2{
+  color: #5D6063;  /* Dark gray */
 }
