@@ -25,3 +25,23 @@ body {
 .item img {
   display: block;
 }
+
+.item-relative {
+  position: relative;
+  bottom: 30px;
+  right: 30px;
+}
+
+.item-absolute {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.absolute {
+  position: relative;
+}
+.item-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
