@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.chp-container {
+  color: #fff;
+  background-color: #5995DA;  /* Blue */
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+section{
+	display: flex;
+  justify-content: space-around;
+  
+}
