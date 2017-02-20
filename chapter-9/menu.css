@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 1200px;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #5D6063;
+}
+
+a:link,
+a:visited {
+  color: #5D6063;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  
+  width: 100%;
+  padding: 50px;
+  background: #D6E9FE;
+}
+.menu {
+  margin-top: 15px;
+}
+
+.menu > li {
+  display: inline;
+  margin-right: 50px;
+}
+
+.menu > li:last-of-type {
+  margin-right: 0;
+}
+.dropdown:hover .features-menu{
+  display: flex;
+  flex-direction: column;
+  background: #B2D6FF;
+  border-radius: 5px;
+  padding-top: 60px;
+  position: absolute;      /* Add these */
+  top: -25px;
+  left: -30px;
+}
+
+.features-menu li {
+  list-style: none;
+  border-bottom: 1px solid #FFF;
+
+  padding: 0 40px 10px 20px;
+  margin: 10px;
+  z-index: 1;
+}
+
+.features-menu li:last-of-type {
+  border-bottom: none;
+}
+
+.dropdown {
+  position: relative;
+}
+.dropdown > span {
+  z-index: 2;
+  position: relative;  /* This is important! */
+  cursor: pointer;
+}
+.features-menu {                    /* Add this as a new rule */
+  display: none;
+}
