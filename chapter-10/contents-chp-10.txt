@@ -1,0 +1,11 @@
+Responsive-Design
+
+Topics:-
+1.setup
+2.css media queries
+3.a few notes on design
+4.mobile-first development
+5.tablet layout
+6.desktop layout
+7.disabling viewport zooming
+8.summary
