@@ -1,0 +1,19 @@
+Semantic-HTML
+
+
+Topics:-
+
+1.setup
+2.the document outline
+3.articles
+4.sections
+5.nav elements
+6.headers
+7.footers
+8.asides
+9.divs for layout
+10.dates and times
+11.address
+12.figures and captions
+13.legacy considerations
+14.summary
