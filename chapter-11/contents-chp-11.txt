@@ -1,0 +1,13 @@
+Responsive Images
+
+Topics:-
+
+1.setup
+2.retina screens
+3.responsive svg images
+4.responsive raster images
+5.image optimization
+6.retina optimization w/ srcset
+7.screen width optimization
+8.art direction w/ <picture>
+9.summary
