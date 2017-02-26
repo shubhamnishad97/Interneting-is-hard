@@ -1,0 +1,16 @@
+Web-typography
+
+Topics:-
+
+1.brief history of web fonts
+2.where to find web fonts
+3.setup
+4.locally hosted web fonts
+5.font families and faces
+6.externally hosted web fonts
+7.paragraph indents
+8.text alignment
+9.vertical text spacing
+10.line length
+11.other guidelines
+12.summary

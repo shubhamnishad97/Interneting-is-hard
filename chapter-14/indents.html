@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8'/>
+  <title>Paragraph Indents</title>
+  <link rel='stylesheet' href='typo.css'/>
+  <style>
+    .paragraph-indent p {
+      text-indent: 1em;
+      margin-bottom: 0;
+    }
+    .paragraph-indent p:first-of-type {
+      text-indent: 0;
+    }
+    .never-both p {
+      text-indent: 1em;
+      margin-bottom: 1em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href='web-fonts.html'>Web Fonts</a></li>
+        <li><a href='history.html'>History</a></li>
+        <li class='selected'>Indents</li>
+        <li><a href='alignment.html'>Alignment</a></li>
+        <li><a href='spacing.html'>Spacing</a></li>
+        <li><a href='line-length.html'>Line Length</a></li>
+      </ul>
+    </nav>
+    <div class='hero'>
+      <h1>Paragraph Indents</h1>
+    </div>
+  </header>
+
+  <div class='page'>
+
+    <section class='section section--blue paragraph-indent'>
+      <h2>Indents</h2>
+
+      <p>Everything in typography is about being subtle, and styling the separation
+      between paragraphs is no different.</p>
+
+	  <p>Denoting a new paragraph should hardly be noticable to the reader, and
+	  first-line indents are a good way to achieve that. The first paragraph
+	  doesn’t need to be indented.</p>
+
+    </section>
+
+    <section class='section section--blue'>
+      <h2>Or Margins</h2>
+
+      <p>Spacing is the other way to set off a new paragraph. You can do this with
+      the <code>bottom-margin</code> CSS property.</p>
+
+      <p>We find that using a bottom margin makes it a little easier to scan a web
+      page, while indents give more of a narrative or newspaper-y feel.</p>
+    </section>
+
+    <section class='section section--red never-both'>
+      <h2>But Never Both</h2>
+
+      <p>The purpose of a first-line indent or bottom margin is to indicate to the
+      reader that, well, you’re starting a new paragraph.</p>
+
+      <p>Readers aren’t stupid, and they don’t need two signs that a new paragraph is happening. That’s redundant.</p>
+
+    </section>
+
+  </div>
+
+</body>
+</html>
